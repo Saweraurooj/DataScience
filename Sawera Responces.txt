@@ -1,0 +1,34 @@
+www.google.com
+Google’s first suggestion was a research paper of Springer. Which was about scripts. 
+Second suggestion was of word stream website.
+Third suggestion was Introduction (Writing).
+It resulted in in writing text. Google follows a pattern and gave similar results.
+
+https://duckduckgo.com/
+It followed text messaging pattern.
+http://bing.com
+If followed another pattern such as text mining and it gave us result according to that.
+
+What do you observe in the list of suggestion? Are there any patterns?
+I observed that these all links were following a pattern but this pattern varies browser to browser. For example, here I typed ‘Introduction to Text’ 
+so all suggestions consisted of the keyword text and then according to their own algorithm they gave various results which were different from one another.
+Second suggestion of Bing and Google is the same and they both gave similar results.
+
+Which search engine's list of suggestion is better and why?
+In my point of view Bing is giving better results as compare to google and duckduckgo. Bing’s results were specific and related to Text analysis’,
+ second best search engine was google and it also gave results related to text analysis but it also gave suggestion related to text writing.
+
+Do all search engines return the same result?
+All search Engines didn’t give similar results. 
+Which site is listed in the top 5 results of all 3 search engines?
+Bing and Google’s second search suggestion was the same; https://www.wordstream.com/blog/ws/2017/09/08/how-to-write-an-introduction
+
+
+
+Do you think that the order of the websites in the search results is important?
+Yeah, it is important as it brings the most searched site on the top. 
+Try to find which mechanism / formula / algorithm(s) are being used to order the results.
+Trillions of pages are linked with search engines and search engines follow various patterns such as the keywords which are either title of any page 
+or caption of any image, those are presented to people if only ‘searched item’ is typed on search engine. 
+Another pattern is checking your location, mostly search engines give you results according to location.
+ Like if I type Iftar time, it will track my location and give me result according to my city or my country.
